@@ -1,6 +1,8 @@
-# tic_tac_toe
+# Tic tac toe
 
-A new Flutter project.
+Learning how to make a simple game with flutter and dart
+
+Credits: https://www.geeksforgeeks.org/how-to-build-a-tic-tac-toe-game-in-android/
 
 ## Getting Started
 
